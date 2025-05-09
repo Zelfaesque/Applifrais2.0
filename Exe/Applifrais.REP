@@ -1,0 +1,9 @@
+;PCSoft - Hyper File V7.00 - REP V7.00
+;Do not edit. Please use specific tools.
+ANALYSISGUID=3	;Analysis GUID
+LOCALIZATION_UTF8=47F013C6AACD41B298FCF00B38F6AE0C	visiteur	C:\Mes Projets\Applifrais\Exe\visiteur.fic
+LOCALIZATION_UTF8=1BDDAFB03FBA4B179A4C53BFD3184588	fichefrais	C:\Mes Projets\Applifrais\Exe\fichefrais.fic
+LOCALIZATION_UTF8=BF16F7BD1ADF4BA8A4FB17046655DB97	etat	C:\Mes Projets\Applifrais\Exe\etat.fic
+LOCALIZATION_UTF8=FB9DD73E6E064C3981B649B405328064	fraisforfait	C:\Mes Projets\Applifrais\Exe\fraisforfait.fic
+LOCALIZATION_UTF8=3E92E9F8056E416F82AD8D8909F3DA20	lignefraishorsforfait	C:\Mes Projets\Applifrais\Exe\lignefraishorsforfait.fic
+LOCALIZATION_UTF8=A6D03F8CABE44A9FA2B80C08CA52201B	lignefraisforfait	C:\Mes Projets\Applifrais\Exe\lignefraisforfait.fic
